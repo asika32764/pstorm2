@@ -1,7 +1,0 @@
-<application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\Program Files (x86)\Ampps\php-7.1\php.exe" id="c87db3a1-9d3a-4e92-8f02-8c697258d70a" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
-</application>
